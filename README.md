@@ -2,7 +2,7 @@
 - 👀 I’m interested in Locally running AI, Deep-learning, LLM, IoT devices, MEMS, Electronics.  
 - 🌱 I’m currently learning Neural Networks.
 - 💞️ I’m looking to collaborate on AI model training. 
-
+- 🤗 https://huggingface.co/Shivp1413
 
 
 <!---
