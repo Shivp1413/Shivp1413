@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivp1413
-- 👀 I’m interested in Locally running AI solutions, Deep-learning, LLM, IoT devices, MEMS, Electronics.  
+- 👀 I’m interested in Local AI solutions, Deep-learning, LLM, IoT devices, MEMS, Electronics.  
 - 🌱 I’m currently learning Neural Networks.
 - 💞️ I’m looking to collaborate on AI model training. 
 - 🤗 https://huggingface.co/Shivp1413
