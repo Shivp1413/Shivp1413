@@ -10,6 +10,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivp1413&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Shivp1413/count.svg" />
+</p>
+
 ## 💫 About Me
 
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" />
@@ -90,15 +94,6 @@ I'm passionate about building intelligent systems that bridge the digital and ph
 </p>
 
 ## 👁️ Profile Visits
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shivp1413/count.svg" />
-</p>
-
-<p align='center'>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShivp1413%2Fhit-counter" />
-</p>
 
 ---
 
