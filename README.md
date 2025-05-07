@@ -1,7 +1,7 @@
 # Hello, I'm an AI & IoT Innovator 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivp1413&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 ## 💫 About Me
@@ -16,9 +16,9 @@ I'm passionate about building intelligent systems that bridge the digital and ph
 - 🔭 I'm working on projects that combine embedded systems with on-device AI
 - 💬 Ask me about edge computing, locally-hosted LLMs, and IoT architecture
 - 🤗 https://huggingface.co/Shivp1413
-
 ## 🛠️ Tech Stack
 
+<div align="center">
 <div align="center">
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -47,11 +47,11 @@ I'm passionate about building intelligent systems that bridge the digital and ph
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/local-llm-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=local-llm-agent&theme=dark" alt="Local LLM Agent" />
+  <a href="https://github.com/Shivp1413/local-llm-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=local-llm-agent&theme=dark" alt="Local LLM Agent" />
   </a>
-  <a href="https://github.com/yourusername/iot-neural-network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=iot-neural-network&theme=dark" alt="IoT Neural Network" />
+  <a href="https://github.com/Shivp1413/iot-neural-network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=iot-neural-network&theme=dark" alt="IoT Neural Network" />
   </a>
 </div>
 
@@ -68,27 +68,27 @@ I'm passionate about building intelligent systems that bridge the digital and ph
 
 ## 📊 Contributions
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivp1413&theme=github_dark" width="100%"/>
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivp1413)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivp1413)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Shivp1413)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Shivp1413)
 
 </div>
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivp1413&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shivp1413&color=blueviolet&style=flat-square" alt="Profile views" />
   
   <p>⭐️ <i>Building the future of AI-powered embedded systems, one commit at a time.</i> ⭐️</p>
 </div>
