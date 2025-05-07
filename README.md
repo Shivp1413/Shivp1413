@@ -1,12 +1,18 @@
-# Hello, I'm an AI & IoT Innovator 👋
+<h1 align='center'>
+  Hello, I'm an AI & IoT Innovator <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
+</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivp1413&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <b>Innovating at the intersection of Locally hosted AI Agents, Electronics, IoT, and Embedded Systems. One project at a time.</b>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivp1413&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
 
 ## 💫 About Me
 
-**Innovating at the intersection of Locally hosted AI Agents, Electronics, IoT, and Embedded Systems. One project at a time.**
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450" />
 
 I'm passionate about building intelligent systems that bridge the digital and physical worlds. I focus on creating self-contained AI solutions that respect privacy and work reliably in edge environments.
 
@@ -15,80 +21,87 @@ I'm passionate about building intelligent systems that bridge the digital and ph
 - 💞️ I'm looking to collaborate on AI model training
 - 🔭 I'm working on projects that combine embedded systems with on-device AI
 - 💬 Ask me about edge computing, locally-hosted LLMs, and IoT architecture
-- 🤗 https://huggingface.co/Shivp1413
+
 ## 🛠️ Tech Stack
 
-<div align="center">
-<div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Shivp1413/local-llm-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=local-llm-agent&theme=dark" alt="Local LLM Agent" />
-  </a>
-  <a href="https://github.com/Shivp1413/iot-neural-network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=iot-neural-network&theme=dark" alt="IoT Neural Network" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ## 🔍 Current Research Focus
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-ON--DEVICE_AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_MACHINE_LEARNING-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-ENERGY_EFFICIENT_AI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-SENSOR_FUSION-yellow?style=for-the-badge" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivp1413&show_icons=true&count_private=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shivp1413&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivp1413&layout=compact&theme=github_dark" />
+</p>
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Shivp1413/local-ai-video-generator">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shivp1413&repo=local-ai-video-generator&theme=github_dark" />
+  </a>
+</p>
+
 <div align="center">
-  
-![](https://img.shields.io/badge/Focus-On--Device%20AI-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Embedded%20Machine%20Learning-green?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Energy%20Efficient%20AI-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Sensor%20Fusion-yellow?style=for-the-badge)
-  
+  <i>Create more repositories to showcase your projects here!</i>
 </div>
-
-## 📊 Contributions
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivp1413&theme=github_dark" width="100%"/>
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivp1413)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivp1413)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Shivp1413)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Shivp1413)
+<p align='center'>
+  <a href="https://github.com/Shivp1413">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/Shivp1413">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://kaggle.com/Shivp1413">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
-</div>
+## 👁️ Profile Visits
 
-## 📈 Activity Graph
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shivp1413/count.svg" />
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivp1413&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align='center'>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShivp1413%2Fhit-counter" />
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivp1413&color=blueviolet&style=flat-square" alt="Profile views" />
-  
   <p>⭐️ <i>Building the future of AI-powered embedded systems, one commit at a time.</i> ⭐️</p>
 </div>
