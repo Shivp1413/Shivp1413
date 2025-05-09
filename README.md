@@ -10,6 +10,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivp1413&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
 
+## 👁️ Profile Visits
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Shivp1413/count.svg" />
 </p>
@@ -93,9 +94,6 @@ I'm passionate about building intelligent systems that bridge the digital and ph
   </a>&nbsp;&nbsp;
 </p>
 
-## 👁️ Profile Visits
-
----
 
 <div align="center">
   <p>⭐️ <i>Building the future of AI-powered embedded systems, one commit at a time.</i> ⭐️</p>
