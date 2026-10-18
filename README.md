@@ -7,10 +7,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivp1413&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <b>I am a Certified N8N creator. I love creating free and opensource N8N templates on topics like RAG pipelines, AI Agents, ERP systems, HR automation </b>
 </div>
 
-👁️ Profile Visits
+
+## 👁️ Profile Visits
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Shivp1413&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visit counter for Shivp1413" />
