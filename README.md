@@ -10,6 +10,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shivp1413&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
 
+👁️ Profile Visits
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Shivp1413&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile visit counter for Shivp1413" />
 </p>
@@ -64,17 +66,34 @@ I'm passionate about building intelligent systems that bridge the digital and ph
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivp1413&layout=compact&theme=github_dark" />
 </p>
 
-## 🌟 Featured Projects
+🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Shivp1413/local-ai-video-generator">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shivp1413&repo=local-ai-video-generator&theme=github_dark" />
-  </a>
+<a href="https://huggingface.co/spaces/Shivp1413/Rainwood_Game">
+<img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Rainwood_Game-yellow?style=for-the-badge" alt="Rainwood Game on Hugging Face" />
+</a>
 </p>
 
-<div align="center">
-  <i>Create more repositories to showcase your projects here!</i>
-</div>
+<p align="center">
+<a href="https://github.com/Shivp1413/I2S-microphone-live-stream">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=I2S-microphone-live-stream&theme=github_dark" alt="I2S Microphone Live Stream repository" />
+</a>
+<a href="https://github.com/Shivp1413/Ask_my_AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=Ask_my_AI&theme=github_dark" alt="Ask My AI repository" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Shivp1413/claude-code-pm-skill">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivp1413&repo=claude-code-pm-skill&theme=github_dark" alt="Claude Code PM Skill repository" />
+</a>
+</p>
+
+<p align="center">
+🚀 <b>Explore my projects and experiments!</b>
+<br />
+<a href="https://github.com/Shivp1413?tab=repositories">View All Repositories →</a>
+</p>
 
 ## 🤝 Connect With Me
 
