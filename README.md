@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hello, I'm an AI & IoT Innovator <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
+  Hello, I'm an Embedded Systems and Edge AI Innovator <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
 </h1>
 
 <div align="center">
-  <b>Innovating at the intersection of Locally hosted AI Agents, Electronics, IoT, and Embedded Systems. One project at a time.</b>
+  <b>Innovating at the intersection of Locally hosted AI Agents, LLMs, Electronics, IoT, and Embedded Systems. One project at a time.</b>
 </div>
 
 <div align="center">
