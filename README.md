@@ -108,7 +108,7 @@ I'm passionate about building intelligent systems that bridge the digital and ph
   <a href="https://kaggle.com/Shivp1413">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shivp.research@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
